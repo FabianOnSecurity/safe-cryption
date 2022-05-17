@@ -1,4 +1,4 @@
-# safe-cryption
+# Safe-Cryption
 TRNG-Based Symmetric Key Generator using Microphone, Camera, Keyboard and Mousemovement
 
 Contributed by Maxim Steib and Fabian Gieshoff.
