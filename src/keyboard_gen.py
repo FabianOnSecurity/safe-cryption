@@ -60,5 +60,3 @@ class keyboard_generator():
         
         print(f"----------------------\nFINAL-{key_length}-bit KEY: {final_key}\n----------------------")
         return final_key
-
-keyboard_generator.random_keyboard_value(1,256)
