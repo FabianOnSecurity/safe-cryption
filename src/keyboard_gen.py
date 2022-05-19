@@ -11,6 +11,9 @@ class keyboard_generator():
             phase_numbers = 6
         elif key_length == 128:
             phase_numbers = 4
+        else:
+            print("Key-Length not supported!")
+            exit()
 
         def float_xor(a, b):
             rtrn = []
