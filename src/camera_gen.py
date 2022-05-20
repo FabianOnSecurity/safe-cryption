@@ -69,11 +69,5 @@ class camera_key_gen():
 
             final_key = final_key + value
 
-        print(final_key)
-        print(len(final_key))
         remove(filename)
-                
-
-
-    
-
+        return final_key
